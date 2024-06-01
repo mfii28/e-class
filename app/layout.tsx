@@ -24,7 +24,7 @@ export default function RootLayout({
       // appearance={{
       //   layout: {
       //     socialButtonsVariant: "iconButton",
-      //     logoImageUrl: "/icons/poom-logo.png",
+      //     logoImageUrl: "/icons/logo-svg.png",
       //   },
       //   variables: {
       //     colorText: "#fff",

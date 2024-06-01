@@ -9,7 +9,7 @@ const Navbar = () => {
       <Link href="/" className="flex items-center gap-1">
         <Image
           className="max-sm:w-[100px]"
-          src="/icons/poom-logo.png"
+          src="/icons/logo-svg.png"
           alt="E-KTU logo"
           width={200}
           height={75}
