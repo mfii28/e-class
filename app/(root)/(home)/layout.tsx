@@ -5,9 +5,9 @@ import { Metadata } from "next";
 import { ReactNode } from "react";
 
 export const metadata: Metadata = {
-  title: "POOM dashboard",
+  title: "E-KTU dashboard",
   description:
-    "Poom - a lite version of ZOOM, which has the same functionality for private communication!",
+    "E-KTU - a lite version of ZOOM, which has the same functionality for private communication!",
 };
 
 const HomeLayout = ({ children }: { children: ReactNode }) => {

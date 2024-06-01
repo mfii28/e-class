@@ -10,7 +10,7 @@ const Navbar = () => {
         <Image
           className="max-sm:w-[100px]"
           src="/icons/poom-logo.png"
-          alt="Poom logo"
+          alt="E-KTU logo"
           width={200}
           height={75}
         />

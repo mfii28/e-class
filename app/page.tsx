@@ -9,7 +9,7 @@ import Image from "next/image";
 const Main = () => {
   const router = useRouter();
 
-  const slogan = "«POOM POOM POOM»".split(" ");
+  const slogan = "«E-KTU»".split(" ");
 
   const clickHandler = () => {
     router.push("/dashboard");
@@ -27,20 +27,20 @@ const Main = () => {
         >
           <Image
             className="animate-bounce-slow relative z-30 opacity-90 pointer-events-none"
-            src="/icons/webcam.png"
+            src="/icons/KTULOGO.png"
             width={150}
             height={150}
             alt="webcamera icon"
           />
         </motion.div>
         <h1 className="heading font-bold text-4xl text-green-1 relative z-20 md:text-7xl xl:text-9xl">
-          POOM
+          E-CLASS KTU
         </h1>
         <div className="glassmorphism3 p-2 rounded-2xl flex-center flex-col max-sm:max-w-[300px] lg:rounded-[32px] lg:p-8">
           <p className="text-center mt-5 text-sky-1 relative z-20 text-xl xl:text-3xl">
-            Free{" "}
+          Seamless{" "}
             <span className="inline-block relative text-sky-2">
-              video calling app
+              video class
               <Image
                 src="/icons/curve.png"
                 className="absolute top-full left-0 w-full"
@@ -49,7 +49,7 @@ const Main = () => {
                 alt="Curve"
               />
             </span>{" "}
-            based on Next & Stream
+            for Koforidua Technical Education
           </p>
           <p className="text-center mt-5 text-sky-1 relative z-20 text-xl xl:text-3xl">
             It&apos;s simple to use as say:{" "}
