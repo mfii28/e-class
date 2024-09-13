@@ -49,7 +49,7 @@ const Main = () => {
                 alt="Curve"
               />
             </span>{" "}
-            for Koforidua Technical Education
+            for Koforidua Technical University
           </p>
           <p className="text-center mt-5 text-sky-1 relative z-20 text-xl xl:text-3xl">
             It&apos;s simple to use as say:{" "}
