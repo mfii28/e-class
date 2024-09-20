@@ -34,7 +34,7 @@ const Main = () => {
           />
         </motion.div>
         <h1 className="heading font-bold text-4xl text-green-1 relative z-20 md:text-7xl xl:text-9xl">
-          E-CLASS KTU
+        KTU E-CLASS 
         </h1>
         <div className="glassmorphism3 p-2 rounded-2xl flex-center flex-col max-sm:max-w-[300px] lg:rounded-[32px] lg:p-8">
           <p className="text-center mt-5 text-sky-1 relative z-20 text-xl xl:text-3xl">
